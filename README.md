@@ -36,6 +36,6 @@ To Visit App:
 
 This was a 2 days long project built during a job application. Project goals included showcasing my knowledge of Ruby on Rails technology and familiarizing myself with it.  
 
-Originally I wanted to build an application with two types of user receptionts and doctors, that allowed receptionst to perform CRUD operations on patients and allowed doctor to view the patient registration vs day graph. I started this process by using the `rails new doc_porrtal` boilerplate, then adding MVC for other models later.  
+Originally I wanted to build an application with two types of user receptionts and doctors, that allowed receptionst to perform CRUD operations on patients and allowed doctor to view the patient registration vs day graph. I started this process by using the `rails new doc_portal` boilerplate, then adding MVC for other models later.  
 
 At the end of the day, the technologies implemented in this project are Ruby, Ruby on Rails and a significant amount of HTML and Bootstrap. I chose to use the default `HTML` templates for all webpages to minimize time spent on frontend development and instead focus on backend development according to the role I applied for. 
