@@ -1,0 +1,6 @@
+<% if user_signed_in? %> 
+	<%= link_to 'Go to Patients', patients_path %> | 
+  <%= link_to 'View the Patient Graph', "/patients/graph" %>
+<% else %>
+	<p> Please Sign in to Get Access to the App </p>
+<% end %>
